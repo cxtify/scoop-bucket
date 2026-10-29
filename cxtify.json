@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cxtify/cxtify/releases/download/v0.1.0/cxtify_windows_amd64.zip",
+            "bin": [
+                "cxtify.exe"
+            ],
+            "hash": "b64285f539eb84b9c1d942bcdd8b28212599ef0f4b9282138d5dd61479fe4d19"
+        },
+        "arm64": {
+            "url": "https://github.com/cxtify/cxtify/releases/download/v0.1.0/cxtify_windows_arm64.zip",
+            "bin": [
+                "cxtify.exe"
+            ],
+            "hash": "78bca1f3bc6223f2b533d447306bbf853305ce5f439f4a602246e5ac0dec4dce"
+        }
+    },
+    "homepage": "https://github.com/cxtify/cxtify",
+    "license": "Proprietary",
+    "description": "Store, sync and inherit Claude context topics (say \"see-ex-tify\")"
+}
