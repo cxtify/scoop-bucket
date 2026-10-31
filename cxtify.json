@@ -1,19 +1,19 @@
 {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cxtify/cxtify/releases/download/v0.1.7/cxtify_windows_amd64.zip",
+            "url": "https://github.com/cxtify/cxtify/releases/download/v0.1.8/cxtify_windows_amd64.zip",
             "bin": [
                 "cxtify.exe"
             ],
-            "hash": "0f257c86af59634fb822d5041bc15b9415b0c94174cc4134ce78caa54d70c5d5"
+            "hash": "b4da3f29868fc5a8c9994379206cd17536dddc1309d3d3edfb73b8e5e2345afe"
         },
         "arm64": {
-            "url": "https://github.com/cxtify/cxtify/releases/download/v0.1.7/cxtify_windows_arm64.zip",
+            "url": "https://github.com/cxtify/cxtify/releases/download/v0.1.8/cxtify_windows_arm64.zip",
             "bin": [
                 "cxtify.exe"
             ],
-            "hash": "d0d4d4f098209881a48fcc41e87c0c9c2159b3f59752484fb02f56df43cb6eab"
+            "hash": "139cb70f3b4272d9534addb0803742e824c0cf65ae6fd3df4fb8f1a911e08169"
         }
     },
     "homepage": "https://github.com/cxtify/cxtify",
